@@ -19,6 +19,8 @@
 [JOINS](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%209%20DBMS.txt)
 #EXPERIMENT 10
 [VIEW_INDEX_SEQUENCE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2010%20DBMS.txt)
+#EXPERIMENT 12
+[WHILE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2012%20DBMS.txt)
 #EXPERIMENT 13
 [SAVEPOINT](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2013%20DBMS.txt)
 #Experiment 14
