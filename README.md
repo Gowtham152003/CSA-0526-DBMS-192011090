@@ -31,3 +31,5 @@
 [PROCEDURES](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2015%20DBMS.txt)
 #EXPERIMENT 16
 [FUNCTIONS](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2016%20DBMS.txt)
+#EXPERIMENT 17
+[REPERAT](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2017%20DBMS.txt)
