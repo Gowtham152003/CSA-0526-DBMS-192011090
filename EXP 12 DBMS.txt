@@ -41,6 +41,14 @@ mysql> CREATE PROCEDURE while_loop()
     -> SELECT res;
     ->  END //
 Query OK, 0 rows affected (0.02 sec)
+mysql> call while_loop();
++----------------------------+
+| res                        |
++----------------------------+
+| 1,5,25,125,625,3125,15625, |
++----------------------------+
+1 row in set (0.01 sec)
+
 mysql> DELIMITER $$
 mysql> CREATE FUNCTION WHILE_DEMO(VALUE CHAR(1))
     -> RETURNS CHAR(20)
