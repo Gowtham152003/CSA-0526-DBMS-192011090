@@ -35,3 +35,7 @@
 [REPEAT](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2017%20DBMS.txt)
 #EXPERIMENT 18
 [COMMIT_ROLLBACK](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2018%20DBMS.txt)
+#EXPERIMENT 19
+
+![Screenshot 2022-10-05 123637](https://user-images.githubusercontent.com/112604105/194001203-fc66db50-d7fc-41d9-ba18-6082616fa7a3.png)
+
