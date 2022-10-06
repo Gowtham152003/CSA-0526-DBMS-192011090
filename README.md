@@ -27,7 +27,7 @@
 |16.		|[High Level Programming Extensions-Function ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2016%20DBMS.txt)<br/>	|    06-10-2022 				|
 |17.		|[SQL String Functions- REPEAT,REPLICATE ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2017%20DBMS.txt)<br/>	|     06-10-2022 				|
 |18.		|[TCL COMMANDS - COMMIT , ROLLBACK](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2018%20DBMS.txt)<br/>	|  06-10-2022 		 		|
-|19.		|[JAVA DATABASE CONNECTIVITY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2019%20DBMS.txt)<br/>	|    	|
-|20.		|[ CASE SCENARIO : Basic SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%20SCENARIO.txt)<br/>	|    	|
-|21.		|[ CASE SCENARIO : Advanced SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2021%20Employee%20advanced%20sql%20queries.txt)<br/>	|    	|
-|22.		|[ CASE SCENARIO :SQL QUERIES IMPLEMENTATION ON BOOK PIBLISHING COMPANY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2022%20DBMS%20BOOK%20COMPANY.txt)<br/>	|    	|
+|19.		|[JAVA DATABASE CONNECTIVITY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2019%20DBMS.txt)<br/>	| 07-10-2022   	|
+|20.		|[ CASE SCENARIO : Basic SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%20SCENARIO.txt)<br/>	| 07-10-2022   	|
+|21.		|[ CASE SCENARIO : Advanced SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2021%20Employee%20advanced%20sql%20queries.txt)<br/>	|  07-10-2022  	|
+|22.		|[ CASE SCENARIO : SQL QUERIES IMPLEMENTATION ON BOOK PIBLISHING COMPANY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2022%20DBMS%20BOOK%20COMPANY.txt)<br/>	|  07-10-2022  	|
