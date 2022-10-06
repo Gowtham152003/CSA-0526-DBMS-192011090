@@ -26,7 +26,7 @@
 |15.		|[High Level Programming Extensions-Procedures ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2015%20DBMS.txt)<br/>	|   06-10-2022 		 	|
 |16.		|[High Level Programming Extensions-Function ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2016%20DBMS.txt)<br/>	|    06-10-2022 				|
 |17.		|[SQL String Functions- REPEAT,REPLICATE ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2017%20DBMS.txt)<br/>	|     06-10-2022 				|
-|18.		|[High Level Programming Extensions-Triggers](#exp18)<br/>	|  06-10-2022 		 		|
+|18.		|[TCL COMMANDS - COMMIT , ROLLBACK](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2018%20DBMS.txt)<br/>	|  06-10-2022 		 		|
 |19.		|[Experiment 19 :](#exp18)<br/>	|    	|
 |20.		|[JAVA DATABASE CONNECTIVITY ](#exp20)<br/>	|    	|
 |21.		|[CASE SCENARIO : Basic SQL Queries Implementation for HRM database](#exp21)<br/>	|     	|
