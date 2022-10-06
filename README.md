@@ -30,3 +30,4 @@
 |19.		|[JAVA DATABASE CONNECTIVITY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2019%20DBMS.txt)<br/>	|    	|
 |20.		|[ CASE SCENARIO : Basic SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%20SCENARIO.txt)<br/>	|    	|
 |21.		|[ CASE SCENARIO : Advanced SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2021%20Employee%20advanced%20sql%20queries.txt)<br/>	|    	|
+|22.		|[ CASE SCENARIO :SQL QUERIES IMPLEMENTATION ON BOOK PIBLISHING COMPANY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2022%20DBMS%20BOOK%20COMPANY.txt)<br/>	|    	|
