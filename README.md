@@ -13,9 +13,9 @@
 |2.		|[DDL Commands with Constraints – PRIMARY, FOREIGN KEY, UNIQUE, CHECK ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%202%20DBMS.txt)<br/>	|03-10-2022		|
 |3.		|[DML Commands – INSERT, SELECT ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%203%20DBMS.txt)<br/>	|03-10-2022		|
 |4.		|[DML Commands - UPDATE,DELETE ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%204%20DBMS.txt)<br/>	|03-10-2022		|
-|5.		|[SELECT with various clause – WHERE, pattern matching ](#exp5)<br/>	|03-10-2022		|
-|6		|[SELECT with various clause – BETWEEN, IN, Aggregate Function ](#exp6)<br/>	|03-10-2022		|
-|7.		|[SELECT with various clause – GROUP BY, HAVING, ORDER BY ](#exp7)<br/>	|04-10-2022			|
+|5.		|[SELECT with various clause – WHERE, pattern matching ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%205%20DBMS.txt)<br/>	|03-10-2022		|
+|6		|[SELECT with various clause – BETWEEN, IN, Aggregate Function ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%206%20DBMS.txt)<br/>	|03-10-2022		|
+|7.		|[SELECT with various clause – GROUP BY, HAVING, ORDER BY ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%207%20DBMS.txt)<br/>	|04-10-2022			|
 |8.		|[SubQuery & Correlated Query ](#exp8)<br/>	|  04-10-2022	     	|
 |9.		|[Joins – EquiJoin, InnerJoin, OuterJoin](#exp9)<br/>	| 04-10-2022	 	|
 |10.		|[VIEW, INDEX, SEQUENCE ](#exp10)<br/>	|  04-10-2022		|
