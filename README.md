@@ -1,41 +1,64 @@
 # CSA-0526-DBMS-192011090
+
 ##Experiment 1
 [SQL QUERIES](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%201%20DBMS.txt)
+
 #Experiment 2
 [KEYS](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%202%20DBMS.txt)
+
 #Experiment 3
 [INSERT AND SELECT](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%203%20DBMS.txt)
+
 #EXPERIMENT 4
+
 [UPDATE AND DELETE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%204%20DBMS.txt)
+
 #EXPERIMENT 5
 [WHERE PATTERNMATCHING](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%205%20DBMS.txt)
+
 #EXPERIMENT 6
 [BETWEEN ,IN,AGGREGATE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%206%20DBMS.txt)
+
 #EXPERIMENT 7
 [GROUP BY,HAVING,ORDER BY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%207%20DBMS.txt)
+
 #EXPERIMENT 8
 [SUB QUERIES AND CORELATED QUERIES](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%208%20DBMS.txt)
+
 #EXPERIMENT 9
 [JOINS](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%209%20DBMS.txt)
+
 #EXPERIMENT 10
 [VIEW_INDEX_SEQUENCE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2010%20DBMS.txt)
+
 #EXPERIMENT 11
 [CASE_IF_LOOP](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2011%20DBMS.txt)
+
 #EXPERIMENT 12
 [WHILE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2012%20DBMS.txt)
+
 #EXPERIMENT 13
 [SAVEPOINT](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2013%20DBMS.txt)
+
 #Experiment 14
 [GRANT_REVOKE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2014%20DBMS.txt)
+
 #EXPERIMENT 15
 [PROCEDURES](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2015%20DBMS.txt)
+
 #EXPERIMENT 16
 [FUNCTIONS](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2016%20DBMS.txt)
+
 #EXPERIMENT 17
 [REPEAT](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2017%20DBMS.txt)
+
 #EXPERIMENT 18
 [COMMIT_ROLLBACK](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2018%20DBMS.txt)
+
 #EXPERIMENT 19
 [DBMS CONNECTIVITY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2019%20DBMS.txt)
 ![Screenshot 2022-10-05 123637](https://user-images.githubusercontent.com/112604105/194001203-fc66db50-d7fc-41d9-ba18-6082616fa7a3.png)
+
+#EXPERIMENT 20
+[EXP_BASIC SCENARIO](
 
