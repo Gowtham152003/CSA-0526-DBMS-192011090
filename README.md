@@ -1,63 +1,35 @@
 # CSA-0526-DBMS-192011090
 
-##Experiment 1
-[SQL QUERIES](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%201%20DBMS.txt)
+# DBMS (CSA0526) --Slot-D
+## LIST OF EXPRIMENTS:
 
-#Experiment 2
-[KEYS](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%202%20DBMS.txt)
+<h1 align="center"> INDEX </h1>
 
-#Experiment 3
-[INSERT AND SELECT](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%203%20DBMS.txt)
 
-#EXPERIMENT 4
-[UPDATE AND DELETE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%204%20DBMS.txt)
 
-#EXPERIMENT 5
-[WHERE PATTERNMATCHING](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%205%20DBMS.txt)
-
-#EXPERIMENT 6
-[BETWEEN ,IN,AGGREGATE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%206%20DBMS.txt)
-
-#EXPERIMENT 7
-[GROUP BY,HAVING,ORDER BY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%207%20DBMS.txt)
-
-#EXPERIMENT 8
-[SUB QUERIES AND CORELATED QUERIES](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%208%20DBMS.txt)
-
-#EXPERIMENT 9
-[JOINS](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%209%20DBMS.txt)
-
-#EXPERIMENT 10
-[VIEW_INDEX_SEQUENCE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2010%20DBMS.txt)
-
-#EXPERIMENT 11
-[CASE_IF_LOOP](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2011%20DBMS.txt)
-
-#EXPERIMENT 12
-[WHILE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2012%20DBMS.txt)
-
-#EXPERIMENT 13
-[SAVEPOINT](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2013%20DBMS.txt)
-
-#Experiment 14
-[GRANT_REVOKE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2014%20DBMS.txt)
-
-#EXPERIMENT 15
-[PROCEDURES](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2015%20DBMS.txt)
-
-#EXPERIMENT 16
-[FUNCTIONS](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2016%20DBMS.txt)
-
-#EXPERIMENT 17
-[REPEAT](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2017%20DBMS.txt)
-
-#EXPERIMENT 18
-[COMMIT_ROLLBACK](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2018%20DBMS.txt)
-
-#EXPERIMENT 19
-[DBMS CONNECTIVITY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2019%20DBMS.txt)
-![Screenshot 2022-10-05 123637](https://user-images.githubusercontent.com/112604105/194001203-fc66db50-d7fc-41d9-ba18-6082616fa7a3.png)
-
-#EXPERIMENT 20
-[EMPLOYEE BASIC QUERIES SCENARIO](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%20SCENARIO.txt)
-
+|Exp.No 		|Expermiment Link  	|Date 	|
+|:---:|:---|:---:|
+|1.		|[DDL Commands – CREATE, ALTER, DROP ](#exp1 )	|03-10-2022	|
+|2.		|[DDL Commands with Constraints – PRIMARY, FOREIGN KEY, UNIQUE, CHECK ](#exp2)<br/>	|03-10-2022		|
+|3 & 4.		|[DML Commands – INSERT, SELECT, UPDATE, DELETE ](#exp3)<br/>	|03-10-2022		|
+|5.		|[SELECT with various clause – WHERE, pattern matching ](#exp5)<br/>	|03-10-2022		|
+|6		|[SELECT with various clause – BETWEEN, IN, Aggregate Function ](#exp6)<br/>	|03-10-2022		|
+|7.		|[SELECT with various clause – GROUP BY, HAVING, ORDER BY ](#exp7)<br/>	|04-10-2022			|
+|8.		|[SubQuery & Correlated Query ](#exp8)<br/>	|  04-10-2022	     	|
+|9.		|[Joins – EquiJoin, InnerJoin, OuterJoin](#exp9)<br/>	| 04-10-2022	 	|
+|10.		|[VIEW, INDEX, SEQUENCE ](#exp10)<br/>	|  04-10-2022		|
+|11.		|[Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP ](#exp11)<br/>	| 04-10-2022			|
+|12.		|[Simple programming  exercises using REPEAT, WHILE](#exp12)<br/>	|  04-10-2022	    |
+|13.		|[TCL Commands – COMMIT, ROLLBACK, SAVEPOINT ](#exp13)<br/>	| 06-10-2022 		|
+|14.		|[DCL Commands – GRANT, REVOKE ](#exp14)<br/>	|     06-10-2022 				|
+|15.		|[High Level Programming Extensions-Procedures ](#exp15)<br/>	|   06-10-2022 		 	|
+|16.		|[High Level Programming Extensions-Function ](#exp16)<br/>	|    06-10-2022 				|
+|17.		|[High Level Programming Extensions-Cursors ](#exp17)<br/>	|     06-10-2022 				|
+|18.		|[High Level Programming Extensions-Triggers](#exp18)<br/>	|  06-10-2022 		 		|
+|19.		|[Experiment 19 :](#exp18)<br/>	|    	|
+|20.		|[JAVA DATABASE CONNECTIVITY ](#exp20)<br/>	|    	|
+|21.		|[CASE SCENARIO : Basic SQL Queries Implementation for HRM database](#exp21)<br/>	|     	|
+|22.		|[CASE SCENARIO 2 : Basic SQL Queries Implementation for HRM database](#exp22)<br/>	|        	|
+|23.		|[CASE SCENARIO 3 : Case Scenario SQL Queries Implementation for General Hospital.](#exp23)<br/>	|     	|
+|24.		|[CASE SCENARIO 4 : Case Scenario SQL Queries Implementation for General Hospital.](#exp24)<br/>	|     	|
+|25.		|[CASE SCENARIO 5 : Case Scenario SQL Queries Implementation for Student Progress Monitoring System. ](#exp25)<br/>	|   		|
