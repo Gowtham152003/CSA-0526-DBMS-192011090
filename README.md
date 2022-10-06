@@ -29,4 +29,4 @@
 |18.		|[TCL COMMANDS - COMMIT , ROLLBACK](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2018%20DBMS.txt)<br/>	|  06-10-2022 		 		|
 |19.		|[JAVA DATABASE CONNECTIVITY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2019%20DBMS.txt)<br/>	|    	|
 |20.		|[ CASE SCENARIO : Basic SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%20SCENARIO.txt)<br/>	|    	|
-
+|20.		|[ CASE SCENARIO : Advanced SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%21SCENARIO.txt)<br/>	|    	|
