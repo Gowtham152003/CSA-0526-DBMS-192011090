@@ -27,10 +27,6 @@
 |16.		|[High Level Programming Extensions-Function ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2016%20DBMS.txt)<br/>	|    06-10-2022 				|
 |17.		|[SQL String Functions- REPEAT,REPLICATE ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2017%20DBMS.txt)<br/>	|     06-10-2022 				|
 |18.		|[TCL COMMANDS - COMMIT , ROLLBACK](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2018%20DBMS.txt)<br/>	|  06-10-2022 		 		|
-|19.		|[Experiment 19 :](#exp18)<br/>	|    	|
-|20.		|[JAVA DATABASE CONNECTIVITY ](#exp20)<br/>	|    	|
-|21.		|[CASE SCENARIO : Basic SQL Queries Implementation for HRM database](#exp21)<br/>	|     	|
-|22.		|[CASE SCENARIO 2 : Basic SQL Queries Implementation for HRM database](#exp22)<br/>	|        	|
-|23.		|[CASE SCENARIO 3 : Case Scenario SQL Queries Implementation for General Hospital.](#exp23)<br/>	|     	|
-|24.		|[CASE SCENARIO 4 : Case Scenario SQL Queries Implementation for General Hospital.](#exp24)<br/>	|     	|
-|25.		|[CASE SCENARIO 5 : Case Scenario SQL Queries Implementation for Student Progress Monitoring System. ](#exp25)<br/>	|   		|
+|19.		|[JAVA DATABASE CONNECTIVITY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2019%20DBMS.txt)<br/>	|    	|
+|20.		|[ CASE SCENARIO : Basic SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%20SCENARIO.txt)<br/>	|    	|
+
