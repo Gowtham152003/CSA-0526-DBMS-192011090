@@ -19,13 +19,13 @@
 |8.		|[SubQuery & Correlated Query ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%208%20DBMS.txt)<br/>	|  04-10-2022	     	|
 |9.		|[Joins – EquiJoin, InnerJoin, OuterJoin](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%209%20DBMS.txt)<br/>	| 04-10-2022	 	|
 |10.		|[VIEW, INDEX, SEQUENCE ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2010%20DBMS.txt)<br/>	|  04-10-2022		|
-|11.		|[Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP ](#exp11)<br/>	| 04-10-2022			|
-|12.		|[Simple programming  exercises using REPEAT, WHILE](#exp12)<br/>	|  04-10-2022	    |
-|13.		|[TCL Commands – COMMIT, ROLLBACK, SAVEPOINT ](#exp13)<br/>	| 06-10-2022 		|
-|14.		|[DCL Commands – GRANT, REVOKE ](#exp14)<br/>	|     06-10-2022 				|
-|15.		|[High Level Programming Extensions-Procedures ](#exp15)<br/>	|   06-10-2022 		 	|
-|16.		|[High Level Programming Extensions-Function ](#exp16)<br/>	|    06-10-2022 				|
-|17.		|[High Level Programming Extensions-Cursors ](#exp17)<br/>	|     06-10-2022 				|
+|11.		|[Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2011%20DBMS.txt)<br/>	| 04-10-2022			|
+|12.		|[Simple programming  exercises using REPEAT, WHILE](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2012%20DBMS.txt)<br/>	|  04-10-2022	    |
+|13.		|[TCL Commands – SAVEPOINT ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2013%20DBMS.txt)<br/>	| 06-10-2022 		|
+|14.		|[DCL Commands – GRANT, REVOKE ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2014%20DBMS.txt)<br/>	|     06-10-2022 				|
+|15.		|[High Level Programming Extensions-Procedures ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2015%20DBMS.txt)<br/>	|   06-10-2022 		 	|
+|16.		|[High Level Programming Extensions-Function ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2016%20DBMS.txt)<br/>	|    06-10-2022 				|
+|17.		|[SQL String Functions- REPEAT,REPLICATE ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2017%20DBMS.txt)<br/>	|     06-10-2022 				|
 |18.		|[High Level Programming Extensions-Triggers](#exp18)<br/>	|  06-10-2022 		 		|
 |19.		|[Experiment 19 :](#exp18)<br/>	|    	|
 |20.		|[JAVA DATABASE CONNECTIVITY ](#exp20)<br/>	|    	|
