@@ -59,5 +59,5 @@
 ![Screenshot 2022-10-05 123637](https://user-images.githubusercontent.com/112604105/194001203-fc66db50-d7fc-41d9-ba18-6082616fa7a3.png)
 
 #EXPERIMENT 20
-[EXP_BASIC SCENARIO](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%20SCENARIO.txt)
+[EMPLOYEE BASIC QUERIES SCENARIO](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%20SCENARIO.txt)
 
