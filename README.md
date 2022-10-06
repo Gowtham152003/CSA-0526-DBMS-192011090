@@ -31,4 +31,4 @@
 |20.		|[ CASE SCENARIO : Basic SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2020%20EMP%20SCENARIO.txt)<br/>	| 07-10-2022   	|
 |21.		|[ CASE SCENARIO : Advanced SQL Queries Implementation for HRM database](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2021%20Employee%20advanced%20sql%20queries.txt)<br/>	|  07-10-2022  	|
 |22.		|[ CASE SCENARIO : SQL QUERIES IMPLEMENTATION ON BOOK PIBLISHING COMPANY](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2022%20DBMS%20BOOK%20COMPANY.txt)<br/>	|  07-10-2022  	|
-|23.		|[ CASE SCENARIO : SQL QUERIES IMPLEMENTATION ON GENERAL HOSPITAL]https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2023%20HOSPITAL.txt)<br/>	|  07-10-2022  	|
+|23.		|[ CASE SCENARIO : SQL QUERIES IMPLEMENTATION ON GENERAL HOSPITAL](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2023%20HOSPITAL.txt)<br/>	|  07-10-2022  	|
