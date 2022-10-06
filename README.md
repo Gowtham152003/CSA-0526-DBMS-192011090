@@ -16,9 +16,9 @@
 |5.		|[SELECT with various clause – WHERE, pattern matching ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%205%20DBMS.txt)<br/>	|03-10-2022		|
 |6		|[SELECT with various clause – BETWEEN, IN, Aggregate Function ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%206%20DBMS.txt)<br/>	|03-10-2022		|
 |7.		|[SELECT with various clause – GROUP BY, HAVING, ORDER BY ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%207%20DBMS.txt)<br/>	|04-10-2022			|
-|8.		|[SubQuery & Correlated Query ](#exp8)<br/>	|  04-10-2022	     	|
-|9.		|[Joins – EquiJoin, InnerJoin, OuterJoin](#exp9)<br/>	| 04-10-2022	 	|
-|10.		|[VIEW, INDEX, SEQUENCE ](#exp10)<br/>	|  04-10-2022		|
+|8.		|[SubQuery & Correlated Query ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%208%20DBMS.txt)<br/>	|  04-10-2022	     	|
+|9.		|[Joins – EquiJoin, InnerJoin, OuterJoin](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%209%20DBMS.txt)<br/>	| 04-10-2022	 	|
+|10.		|[VIEW, INDEX, SEQUENCE ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%2010%20DBMS.txt)<br/>	|  04-10-2022		|
 |11.		|[Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP ](#exp11)<br/>	| 04-10-2022			|
 |12.		|[Simple programming  exercises using REPEAT, WHILE](#exp12)<br/>	|  04-10-2022	    |
 |13.		|[TCL Commands – COMMIT, ROLLBACK, SAVEPOINT ](#exp13)<br/>	| 06-10-2022 		|
