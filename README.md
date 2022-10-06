@@ -10,7 +10,7 @@
 |Exp.No 		|Expermiment Link  	|Date 	|
 |:---:|:---|:---:|
 |1.		|[DDL Commands – CREATE, ALTER, DROP ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%201%20DBMS.txt )	|03-10-2022	|
-|2.		|[DDL Commands with Constraints – PRIMARY, FOREIGN KEY, UNIQUE, CHECK ](#exp2)<br/>	|03-10-2022		|
+|2.		|[DDL Commands with Constraints – PRIMARY, FOREIGN KEY, UNIQUE, CHECK ](https://github.com/Gowtham152003/CSA-0526-DBMS-192011090/blob/main/EXP%202%20DBMS.txt)<br/>	|03-10-2022		|
 |3 & 4.		|[DML Commands – INSERT, SELECT, UPDATE, DELETE ](#exp3)<br/>	|03-10-2022		|
 |5.		|[SELECT with various clause – WHERE, pattern matching ](#exp5)<br/>	|03-10-2022		|
 |6		|[SELECT with various clause – BETWEEN, IN, Aggregate Function ](#exp6)<br/>	|03-10-2022		|
