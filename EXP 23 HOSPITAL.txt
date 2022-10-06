@@ -193,3 +193,11 @@ mysql> select*from Room_accomodation;
 |     301 |        3 |          3 |         1500 |
 +---------+----------+------------+--------------+
 4 rows in set (0.00 sec)
+mysql> select No_of_Beds from Room_accomodation where Room_no=100;
++------------+
+| No_of_Beds |
++------------+
+|          3 |
++------------+
+1 row in set (0.00 sec)
+
