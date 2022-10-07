@@ -1,0 +1,46 @@
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "vardhan@123";
+$dbname = "sse";
+
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+
+
+$sql = "CREATE TABLE Employee2 (
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+firstname VARCHAR(30) NOT NULL,
+lastname VARCHAR(30) NOT NULL,
+email VARCHAR(50),
+reg_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+)";
+
+if ($conn->query($sql) === TRUE) {
+  echo "Table MyGuests created successfully";
+} else {
+  echo "Error creating table: " . $conn->error;
+}
+
+$conn->close();
+?>
+
+OUTPUT
+C:\Users\VISHNU VARDHAN\Downloads>php phpDB1.php
+Table MyGuests created successfully
+
+mysql> desc Employee2;
++-----------+--------------+------+-----+-------------------+-----------------------------------------------+
+| Field     | Type         | Null | Key | Default           | Extra                                         |
++-----------+--------------+------+-----+-------------------+-----------------------------------------------+
+| id        | int unsigned | NO   | PRI | NULL              | auto_increment                                |
+| firstname | varchar(30)  | NO   |     | NULL              |                                               |
+| lastname  | varchar(30)  | NO   |     | NULL              |                                               |
+| email     | varchar(50)  | YES  |     | NULL              |                                               |
+| reg_date  | timestamp    | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED on update CURRENT_TIMESTAMP |
++-----------+--------------+------+-----+-------------------+-----------------------------------------------+
+5 rows in set (0.00 sec)
