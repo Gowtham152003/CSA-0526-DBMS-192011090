@@ -21,7 +21,7 @@ reg_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 )";
 
 if ($conn->query($sql) === TRUE) {
-  echo "Table MyGuests created successfully";
+  echo "Table Employee2 created successfully";
 } else {
   echo "Error creating table: " . $conn->error;
 }
@@ -31,7 +31,7 @@ $conn->close();
 
 OUTPUT
 C:\Users\VISHNU VARDHAN\Downloads>php phpDB1.php
-Table MyGuests created successfully
+Table Employee2 created successfully
 
 mysql> desc Employee2;
 +-----------+--------------+------+-----+-------------------+-----------------------------------------------+
